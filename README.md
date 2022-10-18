@@ -12,7 +12,7 @@
   <hr />
 
   <p align="center">
-    Demo <a href="https://anikatsu.ga">https://anikatsu.ga</a> <br>
+    Demo <a href="https://nullAnime.ga">https://nullanime.herokuapp.com/</a> <br>
     This is a PHP application used for browsing, searching and watching animes with Ads. The application is built on top of GogoAnime API(modified ver of <a href="https://github.com/riimuru/gogoanime-api">riimuru/gogoanime-api</a>) 
   </p>
 </p>
