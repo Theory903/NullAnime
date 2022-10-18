@@ -1,6 +1,6 @@
 <?php 
 
-$websiteTitle = "Zeroverse"; // Website Name
+$websiteTitle = "Null Anime"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = "/files/images/logo.png"; // Logo
 $contactEmail = "xyz@gmail.com"; // Contact Email
