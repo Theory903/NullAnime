@@ -1,17 +1,17 @@
 <?php 
 
-$websiteTitle = "AniKatsu"; // Website Name
+$websiteTitle = "Zeroverse"; // Website Name
 $websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = "/files/images/logo.png"; // Logo
 $contactEmail = "xyz@gmail.com"; // Contact Email
 
 
 //Donate 
-$donate = "https://www.buymeacoffee.com/shashankk";
+$donate = "https://www.buymeacoffee.com/theory903";
 
 // Socials 
-$telegram = "https://t.me/anikatsu"; // telegram
-$discord = "https://discord.com/invite/FrWnWRrZmk"; // Discord
+$telegram = "https://t.me/+e4C7MBD7U881Y2Jl"; // telegram
+$discord = "#"; // Discord
 $redit = "#"; // Reddit
 $twitter = "#"; // Twitter
  
