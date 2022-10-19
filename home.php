@@ -54,6 +54,8 @@ require('./_config.php');
 </head>
 
 <body data-page="page_home">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
+     crossorigin="anonymous"></script>
     <div id="sidebar_menu_bg"></div>
     <div id="wrapper" data-page="page_home">
         <?php include('./_php/header.php');?>

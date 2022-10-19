@@ -51,6 +51,8 @@ $episodelist = $getAnime['episode_id'];
 </head>
 
 <body data-page="movie_watch">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
+     crossorigin="anonymous"></script>
     <div id="sidebar_menu_bg"></div>
     <div id="wrapper" data-page="movie_watch">
         <?php include('./_php/header.php');?>

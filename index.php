@@ -27,8 +27,9 @@ require('./_config.php');
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
     <link rel="stylesheet" href="https://cdn-eq4.pages.dev/anikatsu/files/css/home.css?v=0.5">
 </head>
-
 <body>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
+     crossorigin="anonymous"></script>
     <div id="xwrapper">
         <!--Begin: Header-->
         <div id="xheader">
