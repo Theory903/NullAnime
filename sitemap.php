@@ -4,6 +4,7 @@ header('Content-type: application/xml');
 echo "<?xml version='1.0' encoding='UTF-8'?>"."\n";
 echo "<sitemapindex xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>"."\n";
 ?>
+
   <sitemap>
     <loc>https://<?=$_SERVER['SERVER_NAME']?>/sitemaps/sitemap.xml</loc>
   </sitemap>

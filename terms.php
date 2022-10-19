@@ -1,7 +1,8 @@
 <?php include("./_config.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
+    crossorigin="anonymous"></script>
 <head>
     <title>Watch Anime Online, Free Anime Streaming Online on <?=$websiteTitle?> Anime Website</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
