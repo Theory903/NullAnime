@@ -5,18 +5,18 @@ require('./_config.php');
 <html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-    <title><?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online Without Ads</title>
+    <title><?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online </title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="title" content="<?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online Without Ads" />
-    <meta name="description" content="<?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime." />
+    <meta name="title" content="<?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online " />
+    <meta name="description" content="<?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime. You can watch anime online free in HD . Best place for free find and one-click anime." />
     <meta name="keywords" content="<?=$websiteTitle?>, watch anime online, free anime, anime stream, anime hd, english sub, kissanime, gogoanime, animeultima, 9anime, 123animes, vidstreaming, gogo-stream, animekisa, zoro.to, gogoanime.run, animefrenzy, animekisa" />
     <meta name="charset" content="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
     <meta name="robots" content="index, follow" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta http-equiv="Content-Language" content="en" />
-    <meta property="og:title" content="<?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online Without Ads">
-    <meta property="og:description" content="<?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online Without Ads. You can watch anime online free in HD without Ads. Best place for free find and one-click anime.">
+    <meta property="og:title" content="<?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online">
+    <meta property="og:description" content="<?=$websiteTitle?> - Official <?=$websiteTitle?> #1 Watch High Quality Anime Online . You can watch anime online free in HD . Best place for free find and one-click anime.">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="<?=$websiteTitle?>">
