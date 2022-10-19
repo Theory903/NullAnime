@@ -76,7 +76,6 @@ require('./_config.php');
         </div>
         <!--End: Footer-->
     </div>
-    <img style="width:100% "src="files/images/banne.png"
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
     <script>
