@@ -129,19 +129,6 @@ require('./_config.php');
                 </section>
             </div>
         </div>
-        <div class="share-buttons share-buttons-home">
-        <div class="container">
-            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63430163bc99824a"></script>
-            <div class="share-buttons-block">
-                <div class="share-icon"></div>
-                <div class="sbb-title">
-                    <span>Share <?=$websiteTitle?></span>
-                    <p class="mb-0">to your friends</p>
-                </div>
-                <div class="addthis_inline_share_toolbox"></div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
     </div>
         <div id="anime-featured">
             
