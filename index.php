@@ -58,9 +58,6 @@ require('./_config.php');
             <div id="mw-top">
                 <div class="container">
                     <div class="mwt-content">
-                        <div class="mwt-icon">
-                        <img style="objectco;width: auto; height: auto;" src="files/images/banne.webp"/>
-                        </div>
                         <div id="xsearch" class="home-search">
                             <div class="search-content">
                                 <form action="<?=$websiteUrl?>/search" autocomplete="off" id="search-form">
