@@ -53,7 +53,7 @@ require('./_config.php');
         </div>
         <!--End: Header-->
         <!--Begin: Main-->
-        <img src="files/images/banne.webp"/>
+        <img style="object-fit:cover; width:auto ; height: auto;" src="files/images/banne.webp"/>
         <div id="xmain-wrapper">
             <div id="mw-top">
                 <div class="container">
