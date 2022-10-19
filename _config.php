@@ -21,7 +21,7 @@ $disqus = "https://random-co6vnxqche.disqus.com"; // Disqus
 
 
 // API URL
-$api = "https://nullapianime.herokuapp.com/"; // Github - https://github.com/shashankktiwariii/anikatsu-api
+$api = "https://gogoanime.herokuapp.com/"; // Github - https://github.com/shashankktiwariii/anikatsu-api
 
 
 $banner = $websiteUrl . "/files/images/banner.png";  //Banner
