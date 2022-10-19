@@ -6,8 +6,6 @@ $json = file_get_contents("$api/vidcdn/watch/$id");
 $video = json_decode($json, true);
 foreach($video as $video)
 ?>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
-    crossorigin="anonymous"></script>
 <head>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 </head>

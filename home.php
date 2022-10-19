@@ -112,9 +112,6 @@ require('./_config.php');
                                     </div>
                                     <?php } ?>
                                 <?php } ?>
-                                
-
-
                                 </div>
                                 <div class="clearfix"></div>
                                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>

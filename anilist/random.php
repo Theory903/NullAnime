@@ -6,5 +6,3 @@ $id = $getAnime['id'];
 $newURL = "$websiteUrl/anilist/anime?id=$id";
 header('Location: '.$newURL);
 ?>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
-    crossorigin="anonymous"></script>
