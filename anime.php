@@ -5,8 +5,7 @@ if ($page == ""){
     $page = 1;
 }
 ?>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
-    crossorigin="anonymous"></script>
+
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
@@ -55,6 +54,8 @@ if ($page == ""){
             godefer2.parentNode.insertBefore(wpse326013_2, godefer2);
         }, 500);
     </script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
+    crossorigin="anonymous"></script>
     <noscript>
         <link rel="stylesheet" type="text/css"
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
@@ -65,7 +66,6 @@ if ($page == ""){
 </head>
 
 <body data-page="page_anime">
-<?php include('./_php/ads/728x90.html')?>
     <div id="sidebar_menu_bg"></div>
     <div id="wrapper" data-page="page_home">
         <?php include('./_php/header.php')?>

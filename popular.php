@@ -5,8 +5,6 @@ if ($page == ""){
     $page = 1;
 }
 ?>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
-    crossorigin="anonymous"></script>
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
@@ -63,7 +61,8 @@ if ($page == ""){
 </head>
 
 <body data-page="page_anime">
-<?php include('./_php/ads/728x90.html')?>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
+    crossorigin="anonymous"></script>
     <div id="sidebar_menu_bg"></div>
     <div id="wrapper" data-page="page_home">
         <?php include('./_php/header.php'); ?>

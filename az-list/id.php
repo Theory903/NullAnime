@@ -62,11 +62,11 @@ if ($page == ""){
         <link rel="stylesheet" type="text/css"
             href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
     </noscript>
-    <script></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
+    crossorigin="anonymous"></script>
 </head>
 
 <body data-page="page_anime">
-<?php include('./_php/ads/728x90.html')?>
     <div id="sidebar_menu_bg"></div>
     <div id="wrapper" data-page="page_home">
         <?php include('../_php/header.php')?>
