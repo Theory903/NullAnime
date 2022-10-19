@@ -1,7 +1,7 @@
 <?php 
 
 $websiteTitle = "AnimeNull"; // Website Name
-$websiteUrl = "//{$_SERVER['AnimeNull']}";  // Website URL
+$websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
 $websiteLogo = "/files/images/logo.png"; // Logo
 $contactEmail = "#"; // Contact Email
 
