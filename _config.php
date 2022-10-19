@@ -1,9 +1,9 @@
 <?php 
 
-$websiteTitle = "Null Anime"; // Website Name
-$websiteUrl = "//{$_SERVER['SERVER_NAME']}";  // Website URL
+$websiteTitle = "AnimeNull"; // Website Name
+$websiteUrl = "//{$_SERVER['AnimeNull']}";  // Website URL
 $websiteLogo = "/files/images/logo.png"; // Logo
-$contactEmail = "xyz@gmail.com"; // Contact Email
+$contactEmail = "#"; // Contact Email
 
 
 //Donate 
