@@ -74,7 +74,6 @@ require('./_config.php');
                 </div>
             </div>
         </div>
-        <?php include('./_php/ads/728x90.html')?>
         <div id="anime-trending">
             <div class="container">
                 <section class="block_area block_area_trending">
@@ -145,7 +144,6 @@ require('./_config.php');
             </div>
         </div>
     </div>
-
         <div id="anime-featured">
             
         </div>
