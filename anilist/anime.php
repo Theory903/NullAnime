@@ -61,9 +61,6 @@ $episodelist = $getAnime['episodes'];
         <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
         <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
     </noscript>
-    <script></script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
-    crossorigin="anonymous"></script>
 </head>
 
 <body data-page="movie_info">
