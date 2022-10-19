@@ -3,6 +3,7 @@ require('./_config.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <title><?=$websiteTitle?> - Official <?=$websiteTitle?> Watch High Quality Anime Online Without Ads</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -53,11 +54,13 @@ require('./_config.php');
         </div>
         <!--End: Header-->
         <!--Begin: Main-->
-        <img style="object-fit:cover; width:auto ; height: auto;" src="files/images/banne.webp"/>
         <div id="xmain-wrapper">
             <div id="mw-top">
                 <div class="container">
                     <div class="mwt-content">
+                        <div class="mwt-icon">
+                        <img style="width: 2880px; height: 896px;" src="https://via.placeholder.com/2880x896"/>
+                        </div>
                         <div id="xsearch" class="home-search">
                             <div class="search-content">
                                 <form action="<?=$websiteUrl?>/search" autocomplete="off" id="search-form">
@@ -74,7 +77,7 @@ require('./_config.php');
                 </div>
             </div>
         </div>
-        <!--End: Main-->
+        <!--End: Footer-->
     </div>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
