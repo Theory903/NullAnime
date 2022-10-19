@@ -59,7 +59,7 @@ require('./_config.php');
                 <div class="container">
                     <div class="mwt-content">
                         <div class="mwt-icon">
-                        <img style="width: 2880px; height: 896px;" src="https://via.placeholder.com/2880x896"/>
+                        <img style="objectco;width: auto; height: auto;" src="files/images/banne.webp"/>
                         </div>
                         <div id="xsearch" class="home-search">
                             <div class="search-content">
