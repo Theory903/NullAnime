@@ -60,7 +60,7 @@ require('./_config.php');
                     <div class="mwt-content">
                         <div id="xsearch" class="home-search">
                             <div class="search-content">
-                                <form action="<?=$websiteUrl?>/search" autocomplete="off" id="search-form">
+                                <form action="<?=$websiteUrl?>/search" autocomplete="on" id="search-form">
                                     <div class="search-submit">
                                         <div class="search-icon btn-search"><i class="fa fa-search"></i></div>
                                     </div>
