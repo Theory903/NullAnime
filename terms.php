@@ -44,8 +44,7 @@
 </head>
 
 <body>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
-     crossorigin="anonymous"></script>
+<?php include('./_php/ads/728x90.html')?>
     <div id="sidebar_menu_bg"></div>
 
     <div id="wrapper">

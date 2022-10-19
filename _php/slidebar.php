@@ -13,6 +13,7 @@
                         alt="<?=$title['romaji']?>">
                 </div>
             </div>
+            <?php include('./_php/ads/728x90.html')?>
             <div class="deslide-item-content">
                 <div class="desi-sub-text">#<?=$key+1?> Spotlight</div>
                 <div class="desi-head-title dynamic-name" data-jname="<?=$title['romaji']?>"><?=$title['romaji']?></div>

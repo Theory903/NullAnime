@@ -28,8 +28,7 @@ require('./_config.php');
     <link rel="stylesheet" href="https://cdn-eq4.pages.dev/anikatsu/files/css/home.css?v=0.5">
 </head>
 <body>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7019583978897934"
-     crossorigin="anonymous"></script>
+    
     <div id="xwrapper">
         <!--Begin: Header-->
         <div id="xheader">
@@ -37,6 +36,7 @@ require('./_config.php');
                 <div id="xheader_browser">
                     <div class="header-btn"><i class="fas fa-bars mr-2"></i>Menu</div>
                 </div>
+                <?php include('./_php/ads/728x90.html')?>
                 <div id="xheader_menu">
                     <ul class="nav header_menu-list">
                         <li class="nav-item"><a href="<?=$websiteUrl?>/home" title="Home">Home</a></li>
